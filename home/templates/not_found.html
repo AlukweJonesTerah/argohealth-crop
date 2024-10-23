@@ -1,0 +1,51 @@
+{% extends 'base.html' %}
+{% block title %}No Agrovets Found{% endblock title %}
+
+{% block content %}
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css" />
+    <style>
+        h1 {
+            color: #d9534f;
+        }
+
+        p {
+            font-size: 16px;
+        }
+
+        #map {
+            height: 400px;
+            width: 100%;
+            max-width: 700px;
+            margin: 20px 0;
+            border: 1px solid #ccc;
+            border-radius: 8px;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+        }
+
+        .map-container {
+            max-width: 720px;
+            margin: auto;
+            background-color: #fff;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+        }
+    </style>
+
+    <div class="map-container">
+        <h1>No Agrovets Found</h1>
+        <p>No agrovets or agrocenters were found near {{ location }}.</p>
+        <div id="map"></div>
+    </div>
+
+    <script src="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js"></script>
+    <script>
+        var map = L.map('map').setView([{{ lat }}, {{ lon }}], 10);
+        L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+            attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
+        }).addTo(map);
+
+        var marker = L.marker([{{ lat }}, {{ lon }}]).addTo(map);
+        marker.bindPopup("Your Location").openPopup();
+    </script>
+{% endblock content %}

@@ -1,0 +1,143 @@
+{% extends 'base.html' %}
+{% block title %}About Us{% endblock title %}
+
+{% block content %}
+
+<style>
+    /* Custom styles for the About Us page */
+
+/* Centering container */
+.container {
+    flex-direction: column;
+    align-items: center;
+}
+
+/* Section Headings */
+.section-heading {
+    font-size: 2.5rem;
+    color: #333;
+    margin-bottom: 30px;
+    text-align: center;
+}
+
+/* Team Members Section */
+#team .row {
+    justify-content: center;
+}
+
+#team .card {
+    border: none;
+    transition: transform 0.3s ease;
+    background-color: #fff;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+}
+
+#team .card:hover {
+    transform: translateY(-5px);
+}
+
+#team .card-title {
+    font-size: 1.8rem;
+    color: #333;
+}
+
+#team .card-text {
+    color: #666;
+}
+
+/* Text Content */
+p {
+    text-align: center;
+}
+
+/* Social Media Icons */
+.list-inline {
+    display: flex;
+    justify-content: center;
+    padding-left: 0;
+    list-style: none;
+}
+
+.list-inline-item {
+    margin-right: 1rem;
+}
+
+.list-inline-item:last-child {
+    margin-right: 0;
+}
+
+.list-inline-item a {
+    color: #007bff;
+    text-decoration: none;
+}
+
+.list-inline-item a:hover {
+    color: #0056b3;
+}
+
+</style>
+
+<main class="container py-5">
+    <div class="row">
+        <div class="col-lg-8 mx-auto text-center">
+            <h1 class="mb-4">About Us</h1>
+            <p class="lead">Welcome to our Crop Pests and Diseases Detection App! Here's some detailed information about us:</p>
+        </div>
+    </div>
+
+    <!-- Team Members Section -->
+    <section id="team" class="my-5">
+        <div class="row">
+            <!-- Team members cards -->
+  <div class="col-lg-4">
+                <div class="card h-100 border-0 shadow">
+                    <img src="{{url_for('static', filename = 'images/image1.jpeg')}}" class="card-img-top" alt="Wawuda Natasha">
+                    <div class="card-body">
+                        <h3 class="card-title mb-3">Wawuda Natasha</h3>
+                        <p class="card-text">As our agriculture expert, Wawuda brings invaluable knowledge gained from years of hands-on experience in crop management and pest control. Her deep understanding of agricultural practices guides the development of our app's features and ensures its relevance to farmers' needs.</p>
+                    </div>
+                </div>
+            </div>
+            <!-- Add similar markup for other team members -->
+            <div class="col-lg-4">
+                <div class="card h-100 border-0 shadow">
+                    <img src="{{url_for('static', filename = 'images/image2.jpeg')}}" class="card-img-top" alt="Alukwe Jones Terah">
+                    <div class="card-body">
+                        <h3 class="card-title mb-3">Alukwe Jones Terah</h3>
+                        <p class="card-text">Alukwe is our machine learning wizard, specializing in computer vision. His expertise in training AI models enables our app to accurately identify a wide range of crop pests and diseases from uploaded images. She's passionate about leveraging technology to address pressing issues in agriculture.</p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-4">
+                <div class="card h-100 border-0 shadow">
+                    <img src="{{url_for('static', filename = 'images/image3.jpeg')}}" class="card-img-top" alt="Silvester & Sailas">
+                    <div class="card-body">
+                        <h3 class="card-title mb-3">Silvester & Sailas</h3>
+                        <p class="card-text">Silvester & Sailas, our full-stack developer, bridges the gap between agriculture and technology. With a background in farming and software development, they spearheads the implementation of our app's backend and frontend components. They goal is to make the app intuitive and accessible to farmers of all tech backgrounds.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Our Values, Awards and Recognition, and Connect With Us Sections -->
+    <section class="my-5">
+        <div class="row">
+            <div class="col-lg-4">
+                <h2 class="section-heading">Our Values</h2>
+                <p class="lead">At our core, we value innovation, collaboration, and impact...</p>
+            </div>
+            <div class="col-lg-4">
+                <h2 class="section-heading">Awards and Recognition</h2>
+                <p class="lead">We are proud to have received several awards and recognitions...</p>
+            </div>
+            <div class="col-lg-4">
+                <h2 class="section-heading">Connect With Us</h2>
+                <ul class="list-inline">
+                    <!-- Social media links -->
+                </ul>
+            </div>
+        </div>
+    </section>
+</main>
+{% endblock content %}

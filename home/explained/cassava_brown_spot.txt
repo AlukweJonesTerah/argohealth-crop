@@ -1,0 +1,100 @@
+Brown spot:
+	Description:
+		Brown spot is a disease caused by the fungus Septoria glycines that affects the leaves of soybeans and rice.
+		(Helminthosporium oryzae) The fungus attacks the crop from seedling in nursery to milk stage in main field. Spots measures 0.5 to 2.0mm in breadth - coalesce to form large patches.
+
+	Symptoms:
+		1. Brown Spot is called as sesame leaf spot or Helminthosporiose or fungal blight
+
+		2. The fungus attacks the crop from seedling in nursery to milk stage in main field.
+
+		3. The disease appears first as minute brown dots, later becoming cylindrical or oval to circular.(resemble sesame seed)
+
+		4. Spots measures 0.5 to 2.0mm in breadth - coalesce to form large patches.
+
+		5. Then several spots coalesce and the leaf dries up.
+
+		6. Infection also occurs on panicle, neck with brown colour appearance
+
+		7. Seeds also infected (black or brown spots on glumes spots are covered by olivaceous velvety growth)
+
+		8. The seedlings die and affected nurseries can be often recognized from a distance by their brownish scorched appearance.
+
+		9. Dark brown or black spots also appear on glumes.
+
+		10. The infection of the seed causes failure of seed germination, seedling mortality and reduces the grain quality and weight.
+
+		11. 50% yield reduction in severe cases.
+
+	Mode of spread and survival:
+
+		. The infected seeds are the most common source of primary infection.
+
+	The fungus also survives on collateral hosts. The fungus can survive in the seed for more than 4 years. Infected seeds, volunteer rice, infected rice debris, and several weeds are the major sources of inoculums in the field. Infected seeds give rise to infected seedlings. The fungus can spread from plant to plant and in the field by airborne spores.
+
+	The disease is common in nutrient-deficient soils and unflooded soil but rare on rice grown on fertile soils.
+	Abnormal soils, which are deficient in nutrient elements, or soils in a much-reduced condition in which toxic substances accumulate favor the development of the disease.
+
+	Identification of pathogen:
+		Brown Spot: Helminthosporium oryzae—FUNGAL DISEASE
+		(Syn: Drechslera oryzae) (Sexual stage : Cochliobolus miyabeanus)
+
+		The fungi causing the disease occur in two states or stages. These are the asexual stage, which is called anamorph or imperfect stage and the sexual stage, which is called teleomorph or the perfect stage.
+
+		The somatic structures of the fungus consist of black velvety mycelial mats which are made up of prostrate hyphae and erect sporophores. The hyphae are abundant, branching, and anastomosing. They are dark brown or olivaceous and measure 8-15 µm or more in diameter. The sporophores arise as lateral branches from the hyphae. The conidia measure 35-170 x 11-17 µm. Typical conidia are slightly curved, widest at the middle and tapering toward the hemispherical apex, where their width approximates half the median width. Mature conidia are brownish with a moderately thin peripheral wall.
+
+		Favourable conditions
+
+			1. Temperature of 25-30°C
+
+			2. Relative humidity above 80 per cent.
+
+			3. Excess of nitrogen aggravates the disease incidence.
+
+			4. Leaves must be wet for 8-24 hours for infection to occur.
+
+	Management Strategies:
+
+		Cultural methods:
+			a) As disease is seed borne,Use disease free seeds.
+
+			b) Removal of alternate & collateral hosts.
+
+			c) The use of resistant varieties is the most economical means of control.
+
+			d) Growing Resistant varieties like ADT 44,PY 4,CORH 1,CO 44,CAUVERY,BHAVANI,TPS 4 and Dhanu.
+
+			f) Providing proper nutrition for optimum plant growth and prevention of water stress seem to be the most important factors in controlling brown spot.
+
+			g) The disease is rarely observed in normally fertile rice soils.
+
+			h) Soils known to be low in plant-available silicon should be amended with calcium silicate slag before planting and the field should be well irrigated to avoid water stress.
+
+	Preventive methods:
+		1. Seed treatment with Pseudomonas fluorescens @ 10g/kg of seed followed by seedling dip @ of 2.5 kg or products/ha dissolved in 100 litres and dipping for 30 minutes.
+
+		2. seed soak / seed treatment with Captan or  Thiram at 2.0g /kg of seed
+
+		3. Seed treatment with Agrosan or Ceresan 2.5 g/kg seed to ward off seedling blight stage
+
+		4. Since the fungus is seed transmitted, a hot water seed treatment (53-54°C) for 10-12 minutes may be effective before sowing. This treatment controls primary infection at the seedling stage. Presoaking the seed in cold water for 8 hours increases effectivity of the treatment.
+
+		Fungicide for Seed Treatment- Agrosan	pseudomonas Seed Treatment
+
+
+	Chemical methods:
+		1. seed soak / seed treatment with Captan or  Thiram at 2.0g /kg of seed
+
+		2. Spray Mancozeb (2.0g/lit) or Edifenphos (1ml/lit) - 2 to 3 times at 10 - 15 day intervals.
+
+		3. Spray preferably during early hours or afternoon at flowering and post - flowering stages.
+
+		4. Seed treatment with Agrosan or Ceresan 2.5 g/kg seed to ward off seedling blight stage; Spraying copper fungicides to control secondary spread
+
+		5. Grisepfulvin, nystatin, aureofungin, and similar antibiotics have been found effective in preventing primary seedling infection.
+
+		6. Seed treatment with captan, thiram, chitosan, carbendazim, or mancozeb has been found to reduce seedling infection. Seed treatment with tricyclazole followed by spraying of mancozeb + tricyclazole at tillering and late booting stages gave good control of the disease. Application of edifenphos, chitosan, iprodione, or carbendazim in the field is also advisable.
+
+		Spray Mancozeb	Spraying of Fungicide
+
+		Treat the Seeds with Thiram

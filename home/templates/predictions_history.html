@@ -1,0 +1,21 @@
+{% for prediction in predictions %}
+<tr valign='top'>
+    <td width='70px'>
+        <img src="{{ prediction.author.avatar(36) }}">
+    </td>
+    <td>
+        <span class="user_popup">
+            <a href="{{ url_for('user', username=prediction.author.username) }}">
+                {{ prediction.author.username }}
+            </a>
+        </span>
+        <span>
+            {{ moment(prediction.timestamp).fromNow() }}:
+        </span><br>
+        <span style="display:left">
+            User Input: {{ prediction.image_id }} <br><br>
+            Response: {{ prediction.disease_status }}
+        </span>
+    </td>
+</tr>
+{% endfor %}

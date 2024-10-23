@@ -1,0 +1,55 @@
+Bacterial Blight:
+	Description:
+		Bacterial blight (Pseudomonas savastanoi) of soybeans is typically an early season disease, which over winters in the field on plant residue. Initial infection of soybeans occurs when wind or splashing water droplets from plant residue on the soil surface to the leaves carry bacterial cells. The bacteria enter the plants through stomata and wounds on leaves. In order for infection to occur, the leaf surface must be wet. Seedlings may be infected through infected seed.
+		Bacteria that enter the host produce a toxin, which prevents chlorophyll production. Bacteria can also be spread to uninfected leaves when they rub against infected ones during cultivation, rain, and wind.
+		Bacterial blight can occur on all above ground plant parts, but is most evident on leaves in the mid to upper canopy. Infections begin as small, angular, water-soaked spots that turn yellow and then brown as the tissue dies. The spots darken and are surrounded by yellowish-green halos. Spots often merge to form large, dead patches on the leaves. The dead tissue may fall out giving the leaves a ragged appearance. These infected leaves usually remain on the plant. Infection can also occur on stems, petioles, pods, and seeds in infected pods. Infected seedlings may be stunted or killed in severe cases.
+
+	Conditions and timing that favor disease:
+		Plants can be infected at any time during the growing season. Cool, wet weather and rain storms favor disease development. Disease progress stops in dry, hot conditions. Bacterial blight is spread by wind and rain and by cultivation when foliage is wet.
+
+	Causal pathogen:
+		Bacterial blight is caused by Pseudomonas syringae pv. glycinea, which can also infect snap bean and lima bean. The pathogen overwinters in crop residue and can be seed transmitted.
+		leaf with holes, brown and yellow spots. many leaves, some with holes, some with slight yellow and brown discoloration.
+
+	Disease management:
+		Plant resistant soybean varieties and rotate with non-host crops. Always use pathogen-free seed. Field cultivation should be avoided when the foliage is wet. Deep tillage may help in the rare fields where this disease is frequently severe.
+
+		Genetic Resistance:
+			While this disease is not typically yield limiting in Nebraska, producers should consider the following options in problems fields. The best management tool is to prevent disease establishment. Cultivars that are not highly susceptible to the disease should be considered for planting.
+
+		Cultural Practices:
+			Crop rotation can be an effective method to avoid inoculum from a previously infected crop. Incorporating crop residue by tillage will reduce the amount of inoculum available in the spring to infect plants but there are moisture and erosion issues to be considered. To prevent the spread of disease, limit cultivation to times when the foliage is dry.
+
+		Chemical/Biological Control:
+			Copper fungicides are labeled for control of bacterial blight on soybeans but need to be applied early in the disease cycle to be effective.
+
+	Symptoms:
+		Brown spots on the margins of the cotyledons characterize plants infected early in the growing season. Young plants may be stunted and if the infection reaches the growing point, they may die. Symptoms in later growth stages include angular lesions, which begin as small yellow to brown spots on the leaves. The centers of the spots will turn a dark reddish-brown and dry out. A yellowish-green "halo" will appear around the edge of water soaked tissue that surrounds the lesions. Eventually the lesions will fall out of the leaf and the foliage will appear ragged. Generally young leaves are most susceptible to blight infection. Lesions can also occur on the pods causing the seeds to become shriveled and discolored. However, seeds usually do not show symptoms.
+
+	Favorable Environmental Conditions:
+		Development of bacterial blight is promoted by cool, wet weather (70 – 80°F). Infection can occur early but is most common at mid season and continues until hot and dry weather limits development. Disease outbreaks often follow windy, rainstorms.
+
+	Treatment:
+		a) Choose resistant plant varieties when possible and use western grown seeds which have not been exposed to the disease.
+
+		b) If this fungal problem is common, do NOT save your own seed from plantings.
+
+		c) To avoid spreading the disease, keep out of gardens when plants are wet and make sure to disinfect all garden tools (one part bleach to 4 parts water) after use.
+
+		d) Do not compost infected leaves, fruit or stems and thoroughly clean up garden areas in the fall, after harvest, to reduce over wintering sites for the fungal spores.
+
+		e) Safely treat most fungal and bacterial diseases with SERENADE Garden. This broad spectrum bio-fungicide uses a patented strain of Bacillus subtilis that is registered for organic use. Best of all, SERENADE is completely non-toxic to honey bees and beneficial insects.
+
+		f) Liquid copper sprays and sulfur powders should be applied weekly, starting when foliage begins to develop in the early spring and continuing throughout the growing season. Spray early in the day, and avoid applications during hot weather. Seeds may also be treated prior to planting.
+
+		g) Neem oil spray is an organic, multi-purpose fungicide/insecticide/miticide that kills eggs, larvae and adult stages of insects as well as prevents fungal attack on plants. Apply early, at the first sign of spring budding, every 7-14 days as a preventative measure or on a 7-day schedule until existing problems are eliminated.
+
+
+	Management strategies:
+
+		Management strategies for anthracnose often involve cultural practices such as sanitation (removing and destroying infected plant debris), promoting good air circulation, avoiding overhead irrigation, and planting resistant varieties when available. Fungicides may also be used in severe cases, although they are typically more effective as preventative measures rather than curative treatments.
+
+	Note: - For specific information on managing anthracnose in particular plants or crops, it's best to consult local agricultural extension services or gardening resources, as control methods can vary depending on the species affected and the region.
+
+
+

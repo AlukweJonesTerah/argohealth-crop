@@ -1,0 +1,55 @@
+Green Mite:
+	Description:
+		Scientific Name:
+			Mononychellus tanajoa. Another mite, Mononychellus caribbeanae, is considered a separate species by some taxonomists; previously, it was thought to be another name for Mononychellus tanajoa.
+
+		The cassava green mite, Mononychellus tanajoa, is a minor pest that affects cassava plants. It's native to Central and South America, but has spread to Africa, North and South America, and the Caribbean. The mites are green when young and turn yellowish as adults. They appear as yellowish green specks on the lower surface of young leaves, green stems, and auxiliary buds of cassava.
+
+	Symptoms of the cassava green spider mite include:
+		1. Chlorotic spots
+
+		2. Complete chlorosis
+
+		3. Stunted and deformed leaves
+
+		4. Terminal leaves that die and drop
+
+		5. Shoot tip that looks like a "candle stick"
+
+	The mite pierces and sucks juices from the underside of leaves, causing yellowing, mottling, death, and leaf fall.
+
+	The mite has four stages: larva, two nymphs, and adult. From egg to adult takes about 12 days at 27°C.
+
+	A solution of mild dish soap mixed with rubbing alcohol and water can be a safe homemade spider mite killer. Applying it to the infested areas can help break down the pests' protective layers, causing them to dehydrate and die.
+
+	Symptoms & Life Cycle:
+		The mite pierces and sucks juices from the leaves, most commonly from the underside; this causes yellowing, mottling, death and leaf fall. Stems show a 'candle stick' effect with the loss of terminal shoots.
+
+		There are four stages, a larva with six legs, two nymphs and the adult. From egg to adult takes about 12 days at 27°C. Adults are green at first; later, they become yellowish-green (Photo 1). The adult female lives for about 12 days and lays about 60 eggs. They grow to 0.8 mm, slightly larger than males. Populations are greatest during dry seasons: rainfall tends to wash the mites from the leaves.
+
+		Spread occurs by mites walking from plant to plant, and when they are blown in the wind or carried in water. Long distance spread is by human beings moving planting material, nursery plants, and marketing leaves as a vegetable. Spread also occurs on farm vehicles and other machinery. Survival is on leaves and stems for up to 60 days.
+
+	Impact:
+		The mites impact in Africa has been devasting: it was introduced in 1971 and by 1985 it had spread throughout the cassava belt. Depending on the variety and the length of the dry season there can be a 50% loss of leaf weight and up to 80% loss in root yield. Poor growth and thin stems reduces the quality of planting material in the next crop.
+
+	Detection & Inspection:
+		Look for yellowing and loss of leaves on the terminal shoots. Use a hand lens or a microscope to look for life stages of the mite along the veins on the undersides of leaves. Because of similarity with closely related species, critical identification is needed by a taxonomist familiar with Phytoseiid mites.
+
+		Other spider mites common on cassava leaves, such as the two-spotted spider mite, usually attack lower leaves, and make webs along the veins on the underside. Symptoms are similar to cassava mosaic virus, except the virus causes patches of yellow and green, which are not confined to the veins, and also deforms leaves. It does not cause the 'candle stick' symptom. Cassava bacterial blight does cause the 'candle stick' symptoms either, and causes angular black spots on the leaves (see Fact Sheet no. 173).
+
+	Management:
+		BIOSECURITY:
+			Countries still free from the cassava green mite should take all practical measures to prevent its introduction and further spread. Whenever cassava varieties are moved between countries they should be as pathogen-tested plantlets growing in sterile media according to the FAO/IBPGR Technical Guidelines for the Safe Movement of Cassava Germplasm - https://www.google.com.au/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=international%20guidelines%20for%20cassava.
+
+		NATURAL ENEMIES:
+			Mites of the family Phytoseiidae are the most important predators of cassava green mite because they are effective even when there are low numbers of mites to eat, and they are also easy to rear. Introductions began with Amblyseius species from South America to Africa in the mid-1980s. However, more success was obtained with Typhlodromalus aripo introduced in 1993; it is now considered the key predator of green cassava mite in the African cassava belt. Good effect occurs when it is present with another introduced species, Typhlodromalus manihoti.
+
+		CULTURAL CONTROL:
+			Cultural control is limited in its effectiveness, although selection of planting material from healthy plants, early planting in the rainy season and intercropping with pigeon pea have been suggested.
+
+		RESISTANT VARIETIES:
+			Varieties with tolerance to the green cassava mite have been bred at IITA, Ibadan, Nigeria.
+
+		CHEMICAL CONTROL:
+			This is not a recommended method of control because it is too expensive when cassava is produced only for household use; also there is the possibility that extensive use will select resistant populations of mites. Most importantly, pesticides will interrupt the biological control of predatory mites. However, although abamectin has been found effective.
+

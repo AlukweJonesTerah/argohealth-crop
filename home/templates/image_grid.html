@@ -1,0 +1,54 @@
+{% extends 'base.html' %}
+{% block title %}Gallery{% endblock title %}
+
+{% block content %}
+
+<style>
+    body {
+        font-family: Arial, sans-serif;
+        background-color: #f4f4f4;
+    }
+
+    .container {
+        margin: 0 auto;
+        justify-content: center;
+    }
+
+    .img-row {
+        display: flex;
+        justify-content: center;
+        margin-bottom: 20px;
+    }
+
+    .img-wrapper {
+        margin: 5px;
+        overflow: hidden;
+        border-radius: 5px;
+        box-shadow: 0 0 5px rgba(0, 0, 0, 0.3);
+    }
+
+    .gallery-img {
+        width: 200px; /* Adjust as needed */
+        height: auto;
+        display: block;
+        transition: transform 0.3s ease-in-out;
+    }
+
+    .gallery-img:hover {
+        transform: scale(1.1);
+    }
+</style>
+<h1 class="text-center">Gallery</h1>
+
+    <div class="container">
+        {% for row in image_grid %}
+            <div class="img-row">
+                {% for column in row %}
+                    <div class="img-wrapper">
+                        <img src="{{ column }}" alt="Image" class="gallery-img">
+                    </div>
+                {% endfor %}
+            </div>
+        {% endfor %}
+    </div>
+{% endblock content %}

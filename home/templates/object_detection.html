@@ -1,0 +1,180 @@
+{% extends 'base.html' %}
+{% import 'bootstrap/wtf.html' as wtf %}
+
+{% block content %}
+
+    <style>
+        body {
+            background-color: #f8f9fa;
+            font-family: 'Arial', sans-serif;
+        }
+        .container {
+            margin-top: 20px;
+            text-align: center;
+        }
+        .video-container {
+            position: relative;
+            max-width: 80%;
+            margin: 0 auto;
+            overflow: hidden;
+            background-color: #000;
+            border-radius: 10px;
+            box-shadow: 0px 4px 15px rgba(0, 0, 0, 0.2);
+        }
+        .video-container img {
+            width: 100%;
+            height: auto;
+            display: block;
+            border-radius: 10px;
+        }
+        .control-panel {
+            margin-top: 20px;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+        .btn-toggle {
+            font-size: 1.2rem;
+            padding: 10px 20px;
+            background-color: #007bff;
+            border: none;
+            color: white;
+            border-radius: 5px;
+            cursor: pointer;
+            transition: background-color 0.3s ease;
+        }
+        .btn-toggle:hover {
+            background-color: #0056b3;
+        }
+        .status {
+            font-size: 1.2rem;
+            margin-left: 15px;
+            color: #555;
+        }
+        .overlay {
+            position: absolute;
+            top: 0;
+            left: 0;
+            right: 0;
+            bottom: 0;
+            background-color: rgba(0, 0, 0, 0.6);
+            color: white;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            font-size: 2rem;
+            z-index: 1;
+            border-radius: 10px;
+        }
+        .spinner-border {
+            margin: 20px auto;
+            display: block;
+        }
+        @media (max-width: 768px) {
+            .video-container {
+                max-width: 100%; /* Full-width on small devices */
+            }
+            .btn-toggle {
+                font-size: 1rem; /* Smaller button text on mobile */
+                padding: 8px 16px;
+            }
+            .status {
+                font-size: 1rem; /* Smaller status text on mobile */
+                margin-left: 10px;
+            }
+        }
+
+    </style>
+
+    <div class="container">
+        <!-- Loading spinner -->
+        <div id="loading" class="spinner-border text-primary" role="status" style="display: none;">
+            <span class="sr-only">Loading...</span>
+        </div>
+
+        <!-- Video feed container -->
+        <div class="video-container">
+            <img id="videoFeed" src="{{ url_for('video_feed') }}" alt="Video Feed" style="display: none;">
+            <!-- Overlay for detection disabled -->
+            <div id="overlay" class="overlay" style="display: none;">
+                <div class="overlay-text">Detection Disabled</div>
+            </div>
+        </div>
+
+       <!-- Control panel with detection toggle, snapshot capture, and status -->
+        <div class="control-panel">
+            <button id="toggleDetection" class="btn-toggle">Toggle Detection</button>
+            <button id="captureSnapshot" class="btn-toggle">Capture Snapshot</button>
+            <div id="status" class="status">Detection: Enabled</div>
+        </div>
+        
+        <!-- Statistics section -->
+        <div id="stats" class="container">
+            <h2>Performance Metrics</h2>
+            <p id="cpu-usage">CPU Usage: --%</p>
+            <p id="memory-usage">Memory Usage: --%</p>
+            <p id="os-info">OS Info: --</p>
+        </div>
+
+
+    </div>
+
+    <!-- jQuery and Bootstrap JS -->
+    <script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+    <script>
+        // Capture Snapshot Logic
+        $('#captureSnapshot').on('click', function() {
+            $.post('/capture_snapshot', function(data) {
+                if (data.status === 'error') {
+                    alert('Error: ' + data.message);
+                } else {
+                    const link = document.createElement('a');
+                    link.href = '/capture_snapshot';
+                    link.download = 'snapshot.jpg';
+                    link.click();
+                }
+            }).fail(function() {
+                alert('Failed to capture snapshot');
+            });
+        });
+        // Update performance metrics every 5 seconds
+        function updatePerformanceMetrics() {
+            $.get('/performance_metrics', function(data) {
+                $('#cpu-usage').text(`CPU Usage: ${data.cpu_usage}%`);
+                $('#memory-usage').text(`Memory Usage: ${data.memory_usage}%`);
+                $('#os-info').text(`OS Info: ${data.os}`);
+            }).fail(function() {
+                console.error('Failed to fetch performance metrics');
+            });
+        }
+
+        setInterval(updatePerformanceMetrics, 5000); // Update every 5 seconds
+
+        $(document).ready(function() {
+            $('#loading').show(); // Show loading spinner initially
+            
+            // Show the video feed once it's loaded
+            $('#videoFeed').on('load', function() {
+                $('#loading').hide(); // Hide loading spinner
+                $('#videoFeed').show(); // Show video feed
+            });
+
+            // Toggle detection
+            $('#toggleDetection').on('click', function() {
+                $.post('/toggle_detection', function(data) {
+                    const statusText = 'Detection: ' + (data.status.charAt(0).toUpperCase() + data.status.slice(1));
+                    $('#status').text(statusText);
+                    
+                    // Show or hide overlay based on detection status
+                    if (data.status === 'disabled') {
+                        $('#overlay').show();  // Show overlay if detection is disabled
+                    } else {
+                        $('#overlay').hide();  // Hide overlay if detection is enabled
+                        $('#loading').show(); // Show loading spinner again for a smoother transition
+                    }
+                });
+            });
+        });
+    </script>
+{% endblock content %}

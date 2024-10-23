@@ -1,0 +1,85 @@
+Fall armyworm:
+	Description:
+		Fall armyworm (FAW) is a polyphagous insect that is native to tropical and subtropical regions of the Americas. It is a serious threat to food security, impacting food production and the rural livelihoods of millions. FAW larvae feed on the leaves, stems, and reproductive parts of more than 350 plant species, with a preference for grasses. Key hosts include:
+		Cotton, Maize, Rice, Sorghum, Sugarcane, Wheat, Vegetable crops like sweet corn.
+
+	Description and Life Cycle:
+		The life cycle is completed in about 30 days during the summer, but 60 days in the spring and autumn, and 80 to 90 days during the winter. The number of generations occurring in an area varies with the appearance of the dispersing adults. The ability to diapause is not present in this species. In Minnesota and New York, where fall armyworm moths do not appear until August, there may be but a single generation. The number of generations is reported to be one to two in Kansas, three in South Carolina, and four in Louisiana. In coastal areas of north Florida, moths are abundant from April to December, but some are found even during the winter months.
+
+		Egg:
+			The egg is dome shaped; the base is flattened and the egg curves upward to a broadly rounded point at the apex. The egg measures about 0.4 mm in diameter and 0.3 mm in height. The number of eggs per mass varies considerably but is often 100 to 200, and total egg production per female averages about 1500 with a maximum of over 2000. The eggs are sometimes deposited in layers, but most eggs are spread over a single layer attached to foliage. The female also deposits a layer of grayish scales between the eggs and over the egg mass, imparting a furry or moldy appearance. Duration of the egg stage is only two to three days during the summer months.
+
+		Larvae:
+			There usually are six instars in fall armyworm. Head capsule widths are about 0.35, 0.45, 0.75, 1.3, 2.0, and 2.6 mm, respectively, for instars 1 to 6. Larvae attain lengths of about 1.7, 3.5, 6.4, 10.0, 17.2, and 34.2 mm, respectively, during these instars. Young larvae are greenish with a black head, the head turning orangish in the second instar. In the second, but particularly the third instar, the dorsal surface of the body becomes brownish, and lateral white lines begin to form. In the fourth to the sixth instars the head is reddish brown, mottled with white, and the brownish body bears white subdorsal and lateral lines. Elevated spots occur dorsally on the body; they are usually dark in color, and bear spines. The face of the mature larva is also marked with a white inverted "Y" and the epidermis of the larva is rough or granular in texture when examined closely. However, this larva does not feel rough to the touch, as does corn earworm, Helicoverpa zea (Boddie), because it lacks the microspines found on the similar-appearing corn earworm. In addition to the typical brownish form of the fall armyworm larva, the larva may be mostly green dorsally. In the green form, the dorsal elevated spots are pale rather than dark. Larvae tend to conceal themselves during the brightest time of the day. Duration of the larval stage tends to be about 14 days during the summer and 30 days during cool weather. Mean development time was determined to be 3.3, 1.7, 1.5, 1.5, 2.0, and 3.7 days for instars 1 to 6, respectively, when larvae were reared at 25ºC (Pitre and Hogg 1983).
+
+		Pupa:
+			Pupation normally takes place in the soil, at a depth 2 to 8 cm. The larva constructs a loose cocoon, oval in shape and 20 to 30 mm in length, by tying together particles of soil with silk. If the soil is too hard, larvae may web together leaf debris and other material to form a cocoon on the soil surface. The pupa is reddish brown in color, and measures 14 to 18 mm in length and about 4.5 mm in width. Duration of the pupal stage is about eight to nine days during the summer, but reaches 20 to 30 days during the winter in Florida. The pupal stage of fall armyworm cannot withstand protracted periods of cold weather. For example, Pitre and Hogg (1983) studied winter survival of the pupal stage in Florida, and found 51 percent survival in southern Florida, but only 27.5 percent survival in central Florida, and 11.6 percent survival in northern Florida.
+
+		Adult:
+			The moths have a wingspan of 32 to 40 mm. In the male moth, the forewing generally is shaded gray and brown, with triangular white spots at the tip and near the center of the wing. The forewings of females are less distinctly marked, ranging from a uniform grayish brown to a fine mottling of gray and brown. The hind wing is iridescent silver-white with a narrow dark border in both sexes. Adults are nocturnal, and are most active during warm, humid evenings. After a preoviposition period of three to four days, the female normally deposits most of her eggs during the first four to five days of life, but some oviposition occurs for up to three weeks. Duration of adult life is estimated to average about 10 days, with a range of about seven to 21 days.
+
+		Host Plants:
+			This species seemingly displays a very wide host range, with over 80 plants recorded, but clearly prefers grasses. The most frequently consumed plants are field corn and sweet corn, sorghum, Bermudagrass, and grass weeds such as crabgrass, Digitaria spp. When the larvae are very numerous they defoliate the preferred plants, acquire an "armyworm" habit and disperse in large numbers, consuming nearly all vegetation in their path. Many host records reflect such periods of abundance, and are not truly indicative of oviposition and feeding behavior under normal conditions. Field crops are frequently injured, including alfalfa, barley, Bermudagrass, buckwheat, cotton, clover, corn, oat, millet, peanut, rice, ryegrass, sorghum, sugarbeet, Sudangrass, soybean, sugarcane, timothy, tobacco, and wheat. Among vegetable crops, only sweet corn is regularly damaged, but others are attacked occasionally. Other crops sometimes injured are apple, grape, orange, papaya, peach, strawberry and a number of flowers. Weeds known to serve as hosts include bentgrass, Agrostis sp.; crabgrass, Digitaria spp.; Johnson grass, Sorghum halepense; morning glory, Ipomoea spp.; nutsedge, Cyperus spp.; pigweed, Amaranthus spp.; and sandspur, Cenchrus tribuloides.
+
+			There is some evidence that fall armyworm strains exist, based primarily on their host plant preference. One strain feeds principally on corn, but also on sorghum, cotton and a few other hosts if they are found growing near the primary hosts. The other strain feeds principally on rice, Bermudagrass, and Johnson grass.
+
+		Damage:
+			Larvae cause damage by consuming foliage. Young larvae initially consume leaf tissue from one side, leaving the opposite epidermal layer intact. By the second or third instar, larvae begin to make holes in leaves, and eat from the edge of the leaves inward. Feeding in the whorl of corn often produces a characteristic row of perforations in the leaves. Larval densities are usually reduced to one to two per plant when larvae feed in close proximity to one another, due to cannibalistic behavior. Older larvae cause extensive defoliation, often leaving only the ribs and stalks of corn plants, or a ragged, torn appearance. Marenco et al. (1992) studied the effects of fall armyworm injury to early vegetative growth of sweet corn in Florida. They reported that the early whorl stage was least sensitive to injury, the midwhorl stage intermediate, and the late whorl stage was most sensitive to injury. Further, they noted that mean densities of 0.2 to 0.8 larvae per plant during the late whorl stage could reduce yield by 5 to 20 percent.
+
+			Larvae also will burrow into the growing point (bud, whorl, etc.), destroying the growth potential of plants, or clipping the leaves. In corn, they sometimes burrow into the ear, feeding on kernels in the same manner as corn earworm, Helicoverpa zea. Unlike corn earworm, which tends to feed down through the silk before attacking the kernels at the tip of the ear, fall armyworm will feed by burrowing through the husk on the side of the ear.
+
+			Pannuti et al. (2015) studied larval feeding behavior, and reported that although young (vegetative stage) leaf tissue is suitable for growth and survival, on more mature plants the leaf tissue is unsuitable, and the larvae tend to settle and feed in the ear zone, and particularly on the silk tissues. However, silk is not very suitable for growth. Larvae attaining the corn kernels display the fastest rate of development. Also, although the closed tassel was suitable with respect to survival, it resulted in poor growth. Thus, tassel tissue may be suitable for initial feeding, perhaps until the larvae locate the silk and ears, but feeding only on tassel tissue is suboptimal.
+
+	Natural Enemies:
+		Cool, wet springs followed by warm, humid weather in the overwintering areas favor survival and reproduction of fall armyworm, allowing it to escape suppression by natural enemies. Once dispersal northward begins, the natural enemies are left behind. Therefore, although fall armyworm has many natural enemies, few act effectively enough to prevent crop injury.
+
+		Numerous species of parasitoids affect fall armyworm. The wasp parasitoids most frequently reared from larvae in the United States are Cotesia marginiventris (Cresson) and Chelonus texanus (Cresson) (both Hymenoptera: Braconidae), species that are also associated with other noctuid species. Among fly parasitoids, the most abundant is usually Archytas marmoratus (Townsend) (Diptera: Tachinidae). However, the dominant parasitoid often varies from place to place and from year to year. Luginbill (1928) and Vickery (1929) describe and picture many of the fall armyworm parasitoids.
+
+		The predators of fall armyworm are general predators that attack many other caterpillars. Among the predators noted as important are various ground beetles (Coleoptera: Carabidae); the striped earwig, Labidura riparia (Pallas) (Dermaptera: Labiduridae); the spined soldier bug, Podisus maculiventris (Say) (Hemiptera: Pentatomidae); and the insidious flower bug, Orius insidiosus (Say) (Hemiptera: Anthocoridae). Vertebrates such as birds, skunks, and rodents also consume larvae and pupae readily. Predation may be quite important, as Pair and Gross (1984) demonstrated 60 to 90 percent loss of pupae to predators in Georgia.
+
+		Numerous pathogens, including viruses, fungi, protozoa, nematodes, and a bacterium have been associated with fall armyworm (Gardner et al. 1984), but only a few cause epizootics. Among the most important are the Spodoptera frugiperda nuclear polyhedrosis virus (NPV), and the fungi Entomophaga aulicae, Nomuraea rileyi, and Erynia radicans. Despite causing high levels of mortality in some populations, disease typically appears too late to alleviate high levels of defoliation.
+
+	Management:
+		Sampling:
+			Moth populations can be sampled with blacklight traps and pheromone traps; the latter are more efficient. Pheromone traps should be suspended at canopy height, preferably in corn during the whorl stage. Catches are not necessarily good indicators of density, but indicate the presence of moths in an area. Once moths are detected it is advisable to search for eggs and larvae. A search of 20 plants in five locations, or 10 plants in 10 locations, is generally considered to be adequate to assess the proportion of plants infested. Sampling to determine larval density often requires large sample sizes, especially when larval densities are low or larvae are young, so it is not often used.
+
+		Insecticides:
+			Insecticides are usually applied to sweet corn in the southeastern states to protect against damage by fall armyworm, sometimes as frequently as daily during the silking stage. In Florida, fall armyworm is the most important pest of corn. It is often necessary to protect both the early vegetative stages and reproductive stage of corn. Because larvae feed deep in the whorl of young corn plants, a high volume of liquid insecticide may be required to obtain adequate penetration. Insecticides may be applied in the irrigation water if it is applied from overhead sprinklers. Granular insecticides are also applied over the young plants because the particles fall deep into the whorl. Some resistance to insecticides has been noted, with resistance varying regionally. Foster (1989) reported that keeping the plants free of larvae during the vegetative period reduced the number of sprays needed during the silking period. The grower practice of concentrating the sprays at the beginning of the silking period instead of spacing the sprays evenly provided little benefit.
+
+		Cultural techniques:
+			The most important cultural practice, employed widely in southern states, is early planting and/or early maturing varieties. Early harvest allows many corn ears to escape the higher armyworm densities that develop later in the season (Mitchell 1978). Reduced tillage seems to have little effect on fall armyworm populations (All 1988), although delayed invasion by moths of fields with extensive crop residue has been observed, thus delaying and reducing the need for chemical suppression (Roberts and All 1993).
+
+		Host plant resistance:
+			Partial resistance is present in some sweet corn varieties, but is inadequate for complete protection.
+
+		Biological control:
+			Although several pathogens have been shown experimentally to reduce the abundance of fall armyworm larvae in corn, only Bacillus thuringiensis presently is feasible, and success depends on having the product on the foliage when the larvae first appear. Natural strains of Bacillus thuringiensis tend not to be very potent, and genetically modified strains improve performance (All et al. 1996).
+
+	Selected References:
+		All JN. 1988. Fall armyworm (Lepidoptera: Noctuidae) infestations in no-tillage cropping systems. Florida Entomologist 71: 268-272.
+
+		All JN , Stancil JD, Johnson TB, Gouger R. 1996. Controlling fall armyworm infestations in whorl stage corn with genetically modified Bacillus thuringiensis formulations. Florida Entomologist 79: 311-317.
+
+		Ashley TR, Wiseman BR, Davis FM, Andrews KL. 1989. The fall armyworm: a bibliography. Florida Entomologist 72: 152-202.
+
+		Capinera JL. 2001. Handbook of Vegetable Pests. Academic Press, San Diego. 729 pp.
+
+		Foster RE. 1989. Strategies for protecting sweet corn ears from damage by fall armyworms (Lepidoptera: Noctuidae) in southern Florida. Florida Entomologist 72: 146-151.
+
+		Goergen G, Kumar PL, Sankung SB, Togola A, Tamo M. 2016. First report of outbreaks of the fall armyworm Spodoptera frugiperda (JE Smith) (Lepidoptera, Noctuidae), a new alien invasive pest in west and central Africa. PLoS ONE, DOI: 10.137/journal.pone.0165632
+
+		Johnson SJ. 1987. Migration and the life history strategy of the fall armyworm, Spodoptera frugiperda in the western hemisphere. Insect Science and its Applications 8: 543-549.
+
+		Luginbill P. 1928. The Fall Armyworm. USDA Technical Bulletin 34. 91 pp.
+
+		Marenco RJ, Foster RE, Sanchez CA. 1992. Sweet corn response to fall armyworm (Lepidoptera: Noctuidae) damage during vegetative growth. Journal of Economic Entomology 85 :1285-1292.
+
+		Mitchell ER. 1978. Relationship of planting date to damage by earworms in commercial sweet corn in north central Florida. Florida Entomologist 61: 251-255.
+
+		Pannuti LER, Baldin ELL, Hunt TE, Paula-Moraes SV. 2015. On-plant larval movement and feeding behavior of fall armyworm (Lepidoptera: Noctuidae) on reproductive corn stages. Environ. Entomol. 45: 192-200
+
+		Pair SD, Gross Jr HR 1984. Field mortality of pupae of the fall armyworm, Spodoptera frugiperda (J.E. Smith), by predators and a newly discovered parasitoid, Diapetimorpha introita. Journal of the Georgia Entomological Society 19: 22-26.
+
+		Pitre HN, Hogg DB. 1983. Development of the fall armyworm on cotton, soybean and corn. Journal of the Georgia Entomological Society 18: 187-194.
+
+		Roberts PM All JN. 1993. Hazard for fall armyworm (Lepidoptera: Noctuidae) infestation of maize in double-cropping systems using sustainable agricultural practices. Florida Entomologist 76: 276-283.

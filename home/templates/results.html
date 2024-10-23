@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Agrovets Map</title>
+    <!-- Leaflet CSS -->
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css" />
+    <!-- Leaflet JavaScript -->
+    <script src="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js"></script>
+    <style>
+        #map { height: 400px; }
+        .map-toggle {
+            position: absolute;
+            top: 10px;
+            right: 10px;
+            z-index: 1000;
+            background-color: white;
+            padding: 5px;
+            border-radius: 5px;
+        }
+    </style>
+</head>
+<body>
+    <h1>Agrovets Map</h1>
+    <div id="map"></div>
+    <div class="map-toggle">
+        <input type="radio" name="map-type" value="normal" id="normal" checked>
+        <label for="normal">Normal View</label>
+        <input type="radio" name="map-type" value="satellite" id="satellite">
+        <label for="satellite">Satellite View</label>
+    </div>
+    <script>
+        var map = L.map('map').setView([{{ lat }}, {{ lon }}], 10);
+
+        // Add tile layers for both normal view and satellite view
+        var normalTileLayer = L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+            attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
+        }).addTo(map);
+
+        var satelliteTileLayer = L.tileLayer('https://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/tile/{z}/{y}/{x}', {
+            attribution: 'Tiles &copy; Esri &mdash; Source: Esri, i-cubed, USDA, USGS, AEX, GeoEye, Getmapping, Aerogrid, IGN, IGP, UPR-EGP, and the GIS User Community'
+        });
+
+        // Function to toggle between normal view and satellite view
+        document.querySelectorAll('input[name="map-type"]').forEach(function(radio) {
+            radio.addEventListener('change', function() {
+                if (this.value === 'normal') {
+                    map.removeLayer(satelliteTileLayer);
+                    map.addLayer(normalTileLayer);
+                } else {
+                    map.removeLayer(normalTileLayer);
+                    map.addLayer(satelliteTileLayer);
+                }
+            });
+        });
+
+        // Marker for user's location
+        var userMarker = L.marker([{{ lat }}, {{ lon }}]).addTo(map);
+        userMarker.bindPopup("Your Location").openPopup();
+    </script>
+</body>
+</html>

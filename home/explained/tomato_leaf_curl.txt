@@ -1,0 +1,52 @@
+Leaf curl:
+	Description:
+		Leaf curl is a plant disease that can cause leaves to curl, distort, and pucker. It can also cause reddish spots to develop on the leaves, which thicken and turn yellow or reddish-brown. Eventually, the leaves will wither and fall off the tree. Leaf curl is most common in unsprayed orchards and home yards during cold, wet springs.
+		Peach leaf curl, also known as leaf curl, is a disease caused by the fungus Taphrina deformans. Peach leaf curl affects the blossoms, fruit, leaves, and shoots of peaches, ornamental flowering peaches, and nectarines, and is one of the most common disease problems for backyard gardeners growing these trees. The distorted, reddened foliage that it causes is easily seen in spring. When severe, the disease can reduce fruit production substantially.
+
+	IDENTIFICATION AND DAMAGE:
+		Peach leaf curl first appears in spring as reddish areas on developing leaves. These areas become thickened and puckered, causing leaves to curl and severely distort. The thickened areas turn yellowish and then grayish white, as velvety spores are produced on the surface by the leaf curl fungus. Later affected leaves turn yellow or brown and can remain on the tree or may fall off; they are replaced by a second set of leaves that develop more normally unless wet weather continues. The loss of leaves and the production of a second set result in decreased tree growth and fruit production. Defoliation in spring may expose branches to sunburn injury.
+
+		The peach leaf curl pathogen also infects young green twigs and shoots. Affected shoots become thickened, stunted, distorted, and often die. Only rarely do reddish, wrinkled to distorted (or hypertrophied) areas develop on fruit surfaces. Later in the season these infected areas of fruit become corky and tend to crack. If leaf curl infection builds up and is left uncontrolled for several years, the tree may decline and need to be removed.
+
+	LIFE CYCLE:
+		Leaf symptoms appear about 2 weeks after leaves emerge from buds. The fungus grows between leaf cells and stimulates them to divide and grow larger than normal, causing swelling and distortion of the leaf. Red plant pigments accumulate in the distorted cells. Cells of the fungus break through the cuticle of distorted leaves and produce elongated, sac-like structures called asci that produce sexual spores called ascospores, which give the leaf a grayish white, powdery or velvetlike appearance. The ascospores are released into the air, carried to new tissues, and bud (divide) to form bud-conidia.
+
+		The fungus survives the hot, dry summer as ascospores and bud-conidia (asexual spores) on the tree’s surfaces. When the weather turns cool and wet in fall, the ascospores germinate to produce more bud-conidia. The new and old bud-conidia continue to increase in number by budding. Eventually a film of bud-conidia is formed on the tree’s surface. In spring, the bud-conidia move by splashing water from irrigation or rain and can infect new leaves.
+
+		Periods of cool, wet weather, when leaves are first opening on the tree, favor the disease. The optimum temperature for fungal growth in laboratory cultures is 68°F, the minimum is 48°F, and the maximum is 79° to 87° F. Budding of bud-conidia occurs at or above 95% relative humidity. Wetness from rain, dew, or irrigation for more than 12.5 hours at temperatures below 61°F is needed for infection. Maximum infection occurs when trees are wet for 2 or more days. Although leaves can be infected, symptoms might not appear if temperatures remain above 69°F. Cool weather prolongs the period of disease development by favoring the pathogen and slowing leaf growth. Development of peach leaf curl ceases when young tissue is no longer developing or when weather turns dry and warmer (79° to 87°F).
+
+	MANAGEMENT:
+	To prevent peach leaf curl, use resistant peach and nectarine varieties where possible. (See the Resistant Varieties section below.) For nonresistant varieties, treat trees with a fungicide every year after leaves have fallen. In cooler northern locations leaf fall usually is in late November. In warmer southern locations leaf fall can be as late as early January. Generally a single early treatment when the tree is dormant is effective, although in areas of high rainfall or during a particularly wet winter, it might be advisable to apply a second spray late in the dormant season, preferably as flower buds begin to swell but before green leaf tips are first visible.
+
+		Resistant Varieties:
+			A few peach varieties are available that are resistant or partially resistant to leaf curl. Currently available resistant varieties include Frost, Indian Free, Muir, and Q-1-8.
+
+			The peach cultivar Frost is reportedly very tolerant but must receive fungicide applications the first 2 to 3 years. Redhaven peach and most cultivars derived from it are tolerant to peach leaf curl, whereas Redskin peach and cultivars derived from it range from susceptible to highly susceptible to the disease.
+
+			There are fewer resistant nectarines, although Kreibich is one such variety.
+
+		Fungicides:
+			Copper:
+				Historically, the most commonly used fungicides available to home gardeners have been the fixed copper products. For all copper-containing products, the active ingredient, copper, is listed as “metallic copper equivalent,” or MCE, on the label. Various product formulations differ widely in their metallic copper content. The higher the MCE, the greater the amount of copper and the more effective the product will be. However, other factors such as coverage, use of additives as such stickers and spreaders, and frequency and duration of rain, which can wash off the copper, also will impact product effectiveness. In all cases, the copper is active only when it is wet, when the copper ions are in solution.
+
+				Fixed copper products include tribasic or basic copper sulfate, cupric hydroxide, and copper oxychloride sulfate (C-O-C-S), but currently only liquid products containing copper ammonium complex products with 8% MCE (e.g., Kop R Spray Concentrate [Lilly Miller brands] and Liqui-Cop [Monterey Lawn and Garden]) are available to consumers. The most effective copper product, 90% tribasic copper sulfate with a 50% MCE (Microcop), is no longer available to retail outlets, because the manufacturer withdrew the product in 2010, although remaining supplies still can be sold.
+
+				The copper ammonium complex products can be made more effective by adding 1% horticultural spray oil to the application mix; the oil also aids in controlling some aphids, scale insects, and mites. Copper soap (copper octanoate) fungicides are also available, and preliminary research indicates they may provide some protection of trees.
+
+				Be aware that repeated annual use of copper products over many seasons can result in a buildup of copper in the soil, which eventually can become toxic to soil organisms, and if it moves into waterways, can harm some aquatic species.
+
+			Bordeaux Mixture:
+				Copper sulfate is not a fixed copper and, when used alone, is less effective than tribasic copper sulfate or other fixed copper products. However, if copper sulfate is mixed with hydrated lime to make a Bordeaux mixture, the copper sulfate and calcium in the lime react together to form a fixed copper product that is effective against peach leaf curl. Bordeaux mixture is not available for sale; it must be mixed up just before application, and the ingredients can be very difficult to find. For information on preparing Bordeaux mixture see Pest Notes: Bordeaux Mixture.
+
+		Other Fungicides:
+			The synthetic fungicide chlorothalonil currently is the only other noncopper fungicide available for managing peach leaf curl on backyard trees. Lime sulfur (calcium polysulfide) products no longer are registered for backyard use.
+
+		Application:
+			Thorough coverage with any fungicide is essential to obtain adequate disease control. Trees should be sprayed to the point of runoff or until they are dripping.
+
+			When using pesticides, always read and follow the label for usage, rates, toxicity, and proper disposal. Proper protective clothing and gear including goggles should be used when handling any pesticides.
+
+		Physical Controls:
+			Although symptoms of leaf curl are seen primarily in spring as new leaves develop, there is little you can do to control the disease at this time. Some people remove diseased leaves or prune infected shoots, but this has not been shown to improve control. Normally, diseased leaves fall off within a few weeks and are replaced by new, healthy leaves, unless it is rainy.
+
+		If a tree is severely affected with peach leaf curl this can stunt its growth, so consider thinning fruit later in the season. Pruning in fall prior to applying any fungicides can reduce spore numbers overwintering on the tree and reduce the amount of fungicide needed. If leaf curl symptoms occurred on your trees in spring, be sure to treat the following fall and/or winter to prevent more serious losses the following year.

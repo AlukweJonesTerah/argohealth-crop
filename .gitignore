@@ -1,0 +1,18 @@
+# Ignore virtual environments
+.venv/
+venv/
+
+# Byte-compiled Python files
+*.pyc
+__pycache__/
+
+# Environment variable files
+.env
+
+
+# model best_model22.h5 / model.h5
+# home/best_model22.h5
+# home/model.h5
+# best_model22.h5
+# model.h5
+

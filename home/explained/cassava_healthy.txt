@@ -1,0 +1,2 @@
+Healthy:
+	This leaf (crop) is health. Just ensure the maintain the state of the plant

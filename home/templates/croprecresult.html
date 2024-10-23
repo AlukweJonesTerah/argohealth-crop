@@ -1,0 +1,40 @@
+{% extends 'base.html' %}
+{% block title %}Crop Recommendation{% endblock title %}
+
+{% block content %}
+<div class="container">
+    <div class="row justify-content-center mt-5">
+        <div class="col-md-8">
+            <div class="card">
+                <div class="card-body">
+                    <h3 class="card-title text-center mb-4">Crop Recommendation System</h3>
+                    <p class="card-text text-center">
+                        The crop you should plant based on your data is - <b>{{ corrected_result }}</b>
+                    </p>
+                    <div class="crop-details">
+                        <h4 class="text-center">{{ crop_name }}</h4>
+                        <ul class="list-group">
+                            <li class="list-group-item"><b>Optimal Temperature:</b> {{ optimal_temperature }} °C</li>
+                            <li class="list-group-item"><b>Optimal Humidity:</b> {{ optimal_humidity }} %</li>
+                            <li class="list-group-item"><b>Optimal pH:</b> {{ optimal_ph }}</li>
+                            <li class="list-group-item"><b>Optimal Rainfall:</b> {{ optimal_rainfall }} mm</li>
+                        </ul>
+                        <p class="text-center mt-4">
+                            Here are some tips for growing {{ crop_name }}:
+                        </p>
+                        <ul class="tips-list">
+                            <li>Provide adequate sunlight for optimal growth.</li>
+                            <li>Ensure proper irrigation to maintain soil moisture.</li>
+                            <li>Use organic fertilizers to enhance soil fertility.</li>
+                            <li>Monitor pests and diseases regularly and take appropriate measures.</li>
+                        </ul>
+                        <p class="text-center mt-4">
+                            <a href="#" class="btn btn-primary">More Information</a>
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+{% endblock content %}

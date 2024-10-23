@@ -1,0 +1,23 @@
+sudo apt install python3.12-venv
+python3 -m venv .venv
+
+pip install virtualenv
+virtualenv venv
+source venv/bin/activate
+
+venv\Scripts\activate
+
+pip install Flask
+pip install flask_bootstrap
+pip install flask_sqlalchemy
+pip install flask_login
+pip install flask_moment
+pip install flask_migrate
+pip install flask_caching
+pip install tensorflow
+pip install python-docx
+pip install python-dotenv
+pip install reportlab
+pip install email_validator
+pip install overpy googlemaps numpy Werkzeug
+pip install flask_wtf

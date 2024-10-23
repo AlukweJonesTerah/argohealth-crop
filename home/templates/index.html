@@ -1,0 +1,232 @@
+{% extends 'base.html' %}
+{% block title %}Welcome{% endblock title %}
+
+{% block content %}
+<style>
+    /* Carousel container */
+    .carousel {
+        width: 100%;
+        height: 400px; /* Adjust height as needed */
+    }
+
+    /* Carousel items */
+    .carousel-item img {
+        width: 100%;
+        height: 100%; /* Adjust height as needed */
+        object-fit: cover;
+    }
+
+    /* Carousel caption */
+    .carousel-caption {
+        width: 50%;
+        height: 50%;
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        transform: translate(-60%, -60%);
+        background-color: rgba(0, 0, 0, 0.5);
+        padding: 20px;
+        color: #ffffff;
+        border-radius: 10px;
+    }
+    .carousel-heading {
+        font-size: 2.5rem; /* Adjust font size as needed */
+        line-height: 1.2; /* Adjust line height for better readability */
+        max-width: 100%; /* Allow the heading to wrap if it exceeds the container width */
+        overflow: hidden; /* Hide overflow text */
+        text-overflow: ellipsis; /* Add ellipsis if the text overflows */
+        white-space: nowrap; /* Prevent wrapping */
+    }
+
+    .carousel-description {
+        font-size: 1.7rem; /* Adjust font size as needed */
+        line-height: 1.4; /* Adjust line height for better readability */
+        max-width: 100%; /* Allow the description to wrap if it exceeds the container width */
+        overflow: hidden; /* Hide overflow text */
+        text-overflow: ellipsis; /* Add ellipsis if the text overflows */
+        white-space: nowrap; /* Prevent wrapping */
+    }
+
+    /* Caption heading */
+    .carousel-caption h2 {
+        font-size: 36px;
+        margin-bottom: 10px;
+    }
+
+    /* Caption text */
+    .carousel-caption p {
+        font-size: 18px;
+    }
+
+.content-box {
+    background-color: #f8f9fa;
+    border: 1px solid #dee2e6;
+    border-radius: 5px;
+    padding: 20px;
+    margin-top:20px;
+    margin-bottom:20px;
+    transition: all 0.3s ease;
+}
+
+.content-box:hover {
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+    transform: translateY(-5px);
+}
+
+.content-box h3 {
+    font-size: 1.2rem;
+    color: #333;
+    margin-bottom: 10px;
+}
+
+.content-box ul {
+    list-style: none;
+    padding: 0;
+}
+
+.content-box ul li {
+    margin-bottom: 5px;
+}
+
+.social-icons {
+    padding: 0;
+}
+
+.social-icons li {
+    display: inline;
+    margin-right: 10px;
+}
+
+.call-to-action {
+        background-color: #f8f9fa;
+        padding: 50px 20px;
+        border-radius: 10px;
+        text-align: center;
+    }
+
+    .call-to-action-content h2 {
+        font-size: 3rem;
+        margin-bottom: 20px;
+        color: #333;
+    }
+
+    .call-to-action-content p {
+        font-size: 1.4rem;
+        margin-bottom: 30px;
+        color: #555;
+    }
+
+    .call-to-action-content .btn-primary {
+        font-size: 1.4rem;
+        padding: 10px 30px;
+        border-radius: 5px;
+        background-color: #007bff;
+        color: #fff;
+        border: none;
+        cursor: pointer;
+        transition: background-color 0.3s ease;
+    }
+
+    .call-to-action-content .btn-primary:hover {
+        background-color: #0056b3;
+    }
+
+
+</style>
+<div class="row p-5">
+    <div class="col">
+        <div id="carouselExampleCaptions" class="carousel slide" data-bs-ride="carousel">
+            <div class="carousel-inner">
+                {% for item in carousel_items %}
+                <div class="carousel-item {% if loop.first %}active{% endif %}">
+                    <img src="{{ item.image_url }}" class="d-block w-100" alt="...">
+                    <div class="carousel-caption">
+                        <h2 class="carousel-heading">{{ item.heading }}</h2>
+
+                        <!-- Additional content below the image -->
+                        <div class="additional-content">
+                            <p class="carousel-description">{{ item.description }}</p>
+                            <!-- Add whatever additional content you want here -->
+                            <p>And to predict and classify the state of the plant and provide solutions and recommendations</p>
+                        </div>
+                    </div>
+                </div>
+                {% endfor %}
+            </div>
+        </div>
+      <div class="row horizontal-content">
+    <!-- Featured Products or Offers -->
+    <div class="col-md-2 featured-products">
+        <div class="content-box">
+            <h3>Featured Products:</h3>
+            <ul>
+                <li>Coffee disease and pest classification</li>
+                <li>Coffee deficianecy detection</li>
+                <li>Coffee disease and pest detection</li>
+            </ul>
+        </div>
+    </div>
+
+    <!-- Contact Information -->
+    <div class="col-md-2 contact-info">
+        <div class="content-box">
+            <h3>Contact Us: </h3>
+            <p><i class="fas fa-envelope"></i> Email: jtalukwe@kabarak.ac.ke</p>
+            <p><i class="fas fa-phone"></i> Phone: +254 745983042</p>
+            <p><i class="fas fa-map-marker-alt"></i> Address: 00200 Kileleshwa, Nairobi, Kenya</p>
+        </div>
+    </div>
+
+    <!-- Social Media Links -->
+    <div class="col-md-2 social-media">
+        <div class="content-box">
+            <h3>Our Aims:</h3>
+            <ul class="social-icons">
+                <li>The objective of coffee disease & deficiency detection is to identify the presence of infections, but certain unique leaf images present challenges to the human eye and are not easily distinguishable without assistance.</li>
+                <li>Assist local farmers get access to the nearest Agrocenter and Agrovet shop for easy purchase of plant chemical drugs.</li>
+                <li>Also to create awareness to local  (both small scale and large scale)and any other person or farmer on the treatment measures of some pests and diseases and the type of infection the plant is affected with.</li>
+            </ul>
+        </div>
+    </div>
+
+    <!-- Features or Services -->
+    <div class="col-md-3 features">
+        <div class="content-box">
+            <h3>Key Features: </h3>
+            <ul>
+                <li>1. Predicting local African coffee diseases pests or healthy plant</li>
+                <li>2. Location pinning</li>
+                <li>3. Predicting and distinguish pests and deficianecies</li>
+                <li>4. File download</li>
+            </ul>
+        </div>
+    </div>
+
+    <!-- Statistics or Data -->
+    <div class="col-md-3 statistics">
+        <div class="content-box">
+            <h3>Statistics:</h3>
+            <ul>
+                <li><i class="fas fa-users"></i> Number of users served: 1000</li>
+                <li><i class="fas fa-smile"></i> Percentage of satisfied customers: 95%</li>
+                <li><i class="fa fa-database"></i> Total dataset used (images): 3000</li>
+
+            </ul>
+        </div>
+    </div>
+
+          <!-- Call-to-action section -->
+            <div class="col-md-12 call-to-action">
+                <div class="call-to-action-content">
+                    <h2>Ready to get started?</h2>
+                    <p>Sign up now to unlock exclusive features and offers!</p>
+                    <a href="{{url_for('register')}}" class="btn btn-primary">Sign Up</a>
+                </div>
+            </div>
+
+</div>
+
+
+    </div>
+</div>
+{% endblock content %}

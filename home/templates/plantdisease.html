@@ -1,0 +1,69 @@
+{% extends 'base.html' %}
+{% block title %}Plant Disease Detection{% endblock title %}
+
+{% block content %}
+<div class="container mt-5">
+    <div class="row justify-content-center">
+        <div class="col-md-8">
+            <div class="card">
+                <div class="card-body">
+                    <h3 class="card-title text-center mb-4">Plant Classification</h3>
+                    <p class="card-text text-center">
+                        Upload an image of a plant to detect its disease.
+                    </p>
+                    <h4 class="text-center mt-4">Upload Image File</h4>
+                    <div class="d-flex justify-content-center mt-3">
+                        <form method="post" enctype="multipart/form-data" id="uploadForm">
+                            <div class="custom-file">
+                                <input type="file" class="custom-file-input" id="customFile" name="file" onchange="updateLabel()">
+                                <label class="custom-file-label" for="customFile" id="label">Choose file</label>
+                            </div>
+                            <button type="submit" class="btn btn-primary mt-3">Upload</button>
+                        </form>
+                    </div>
+                    <div class="text-center mt-3">
+                        <img src="" id="preview" class="img-fluid" style="max-width: 300px; display: none;" alt="Image Preview">
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<style>
+    .custom-file-input::-webkit-file-upload-button {
+        visibility: hidden;
+    }
+    .custom-file-input::before {
+        content: 'Choose File';
+        display: inline-block;
+        background: #007bff;
+        color: #fff;
+        border: none;
+        padding: 8px 12px;
+        border-radius: 4px;
+        cursor: pointer;
+    }
+    .custom-file-input:hover::before {
+        background: #0056b3;
+    }
+</style>
+
+<script>
+    function updateLabel() {
+        var input = document.getElementById('customFile');
+        var label = document.getElementById('label');
+        var preview = document.getElementById('preview');
+
+        var fileName = input.files[0].name;
+        label.innerText = fileName;
+
+        var reader = new FileReader();
+        reader.onload = function (e) {
+            preview.src = e.target.result;
+            preview.style.display = 'block';
+        }
+        reader.readAsDataURL(input.files[0]);
+    }
+</script>
+{% endblock content %}

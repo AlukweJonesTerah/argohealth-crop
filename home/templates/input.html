@@ -1,0 +1,53 @@
+{% extends 'base.html' %}
+{% block title %}No Agrovets Found{% endblock title %}
+{% block content %}
+
+<style>
+    h1 {
+        text-align: center;
+        color: #333;
+    }
+
+    .search-form {
+        text-align: center;
+    }
+
+    label {
+        display: block;
+        margin-bottom: 10px;
+        font-weight: bold;
+    }
+
+    input[type="text"] {
+        width: 100%;
+        padding: 10px;
+        margin-bottom: 20px;
+        border: 1px solid #ccc;
+        border-radius: 5px;
+    }
+
+    button {
+        padding: 10px 20px;
+        background-color: #007bff;
+        color: #fff;
+        border: none;
+        border-radius: 5px;
+        cursor: pointer;
+    }
+
+    button:hover {
+        background-color: #0056b3;
+    }
+</style>
+
+    <div class="container">
+        <h1>Find Nearby Agrovets</h1>
+        <form class="search-form" method="post" action="/argo_location">
+            <label for="location">Enter your location:</label>
+            <input type="text" id="location" name="location" required>
+            <button type="submit">Search</button>
+        </form>
+    </div>
+{% endblock content %}
+
+

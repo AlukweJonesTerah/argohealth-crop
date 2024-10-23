@@ -1,0 +1,24 @@
+Leaf blight:
+	Description:
+		Leaf blight is a disease caused by fungi that affects the leaves of plants. It's associated with wet weather, cool temperatures, and high humidity. The disease can affect many plants, including wheat, maize, carrots, sorghum, rubber trees, and corn.
+		Leaf blight symptoms are characterized by the presence of long, elliptical, and necrotic lesions on the leaf lamina. The center of the lesion is straw in color and the margin is usually dark brown. The dark color of the margin is, however, not conspicuous in nonpigmented (tan type) cultivar.
+
+	Symptoms:
+		1. sudden and severe yellowing, browning
+
+		2. spotting
+
+		3. withering, or dying of leaves
+
+	Measures for controlling and preventing:
+		1. destruction of the infected plant parts
+
+		2. use of disease-free seed or stock and resistant varieties
+
+		3. crop rotation; pruning and spacing of plants for better air circulation
+
+		4. controlling pests that carry the fungus from plant to plant
+
+		5. avoidance of overhead watering and working among wet plants
+
+		6. where needed, the application of fungicide or antibiotics. Proper sanitation is key to stop the spread of the infestation. For bacterial blights (e.g., fire blight), fixed copper or streptomycin is an effective antibiotic if applied weekly during damp weather when leaves and shoots are expanding.

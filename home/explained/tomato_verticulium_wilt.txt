@@ -1,0 +1,45 @@
+Verticulium wilt:
+	Description:
+		Verticillium wilt is a serious fungal disease that affects the xylem, or water-conducting tissues, of over 350 species of eudicot plants. It's caused by six species of Verticillium fungi: V. dahliae, V. albo-atrum, V. longisporum, V. nubilum, V. theobromae, and V. tricorpus. The disease can cause injury and death to many plants, including trees, shrubs, ground covers, vines, fruits, vegetables, and herbaceous ornamentals
+		What is verticillium wilt? Verticillium wilt is caused by the soil-borne fungi Verticillium dahliae and V. albo-atrum. Both infect a very wide range of garden plants through the roots and then grow upwards in the water-conducting tissues, causing wilting of the upper parts due to water stress.
+
+	Symptoms of Verticillium wilt include:
+		i) Stunting, Wilting, Chlorosis, Foliar desiccation, Defoliation, Marginal scorch, Small leaves.
+
+		ii) The initial symptoms may occur on only one branch or may involve the entire plant. For example, sapwood of infected branches typically has olive-green to black streaks. Vascular tissue appears as a dark ring in cross sections or pin-point dark spots.
+
+		iii) Verticillium wilt can be spread by the transport of infected planting stock. For example, a nursery may spread the fungus by selling non-symptomatic, but infected, planting stock. Verticillium can also be spread in infected potato seed tubers.
+
+		iv) While there is no fungicide treatment for verticillium wilt, some measures can be taken to prolong the life of an infected tree, including: Proper pruning, Watering, Fertilizing.
+
+		v) Yellowing and shrivelling of lower leaves
+
+		vi) Some or all of the plant suddenly wilts, especially in hot weather. Plants may recover in cooler or wetter conditions
+
+		vii) Brown or black streaks in the tissue under the bark. These are visible as a circle or part-circle of brown marks, if the stem is cut across transversely, or as brown lines if it is cut lengthways. In woody plants the marks are often in the outer (most recent) growth ring, although older infections that were not fatal may have left similar marks in older, inner growth rings. However, a few plants, such as chrysanthemums and roses, don't usually show these marks when infected
+
+		viii) Branch dieback is a common symptom in trees and shrubs. Sometimes only part of the plant may wilt and dead branches may indicate infections which occurred in previous years
+
+		You can help prevent the spread of Verticillium from branch to branch, or more importantly from tree to tree, as you prune by using rubbing alcohol or many spray disinfectants.
+
+	Control:
+		1. Non-chemical control:
+			a) The fungus can be spread in contaminated soil, so if the disease is suspected, be careful not to spread soil from around the affected plants on tools or muddy boots.
+
+			b) Weed control is important because some weeds are hosts, and in some cases they will not show any visible signs of infection.
+
+			c) Where the disease is confirmed, taking care not to spread potentially infected soil around, remove the infected plant with as much root system as possible and destroy. Consider grassing over the area for at least fifteen years, or plant a resistant replacement.
+
+			d) Heavy watering and application of ammonium-based fertilisers (nitrogenous) may stimulate the production of new water-conducting tissues in woody plants and help them recover, but this does not guarantee that re-infection will not occur in future years. To do this, apply a nitrogenous fertiliser to the root spread; use sulphate of ammonia at 25g per sq m (1oz per sq yd), or urea at 50g per sq m (2oz per sq yd) once or twice during the remainder of the growing season. The fertiliser should be applied to the soil surface and then immediately worked (e.g. with a hoe) or watered into the soil.
+
+			e) Avoid replanting with the plants listed above as they are susceptible, especially Acer. Resistant plants include: Betula, Cercidiphyllum, Crataegus, Fagus, Gleditsia, Liquidambar, Morus, Platanus, Salix. Conifers are effectively immune and grasses are generally resistant..
+
+		2. Chemical control:
+			There are no chemicals available to treat verticillium wilt.
+
+		3. Biology:
+			Verticillium dahliae is more common in woody plants and V. albo-atrum in herbaceous plants, but their biology is very similar.
+
+			The fungi reside in the soil for many years in the form of microscopic, resilient, resting structures (microsclerotia in the case of V. dahliae, resting mycelium in V. albo-atrum). These germinate and penetrate into the roots of susceptible hosts, where they grow into the water-conducting system (xylem). Wilting develops due to a combination of physical blockage of the xylem vessels as a result of fungal growth, and the effect of fungal toxins that are carried upwards in the water stream. The plant also often blocks off its own xylem vessels with gums in a reaction to the toxins – this results in the brown streaks visible in the growth rings of infected plants. The fungus forms fresh resting structures in dead plant material.
+
+			In woody plants, the most active water conduction is in the most recently formed, outermost, growth ring and this is the one where the fungus spreads most actively.
